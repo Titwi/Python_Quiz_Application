@@ -1,6 +1,7 @@
 ### quiz_data is a dictionary, which contains four keys. Each theme contains a list of question dictionaries
 ### In addition, each question dictionary contains:a string (question), a list of strings (options), and a string (correct_answer)
 
+
 quiz_questions = {
     "General Knowledge": [
         {

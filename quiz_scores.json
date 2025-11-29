@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Vero",
+    "category": "General Knowledge",
+    "score": 4,
+    "total_questions": 4,
+    "percentage": 100.0
+  },
+  {
+    "name": "Vero",
+    "category": "History & Geography",
+    "score": 4,
+    "total_questions": 6,
+    "percentage": 66.66666666666666
+  },
+  {
+    "name": "slawek",
+    "category": "Modern Music & Literature",
+    "score": 12,
+    "total_questions": 18,
+    "percentage": 66.66666666666666
+  },
+  {
+    "name": "Millie",
+    "category": "Games & Riddles",
+    "score": 17,
+    "total_questions": 21,
+    "percentage": 80.95238095238095
+  }
+]
