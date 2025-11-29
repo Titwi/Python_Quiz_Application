@@ -122,6 +122,11 @@ The quiz contains 113 questions across 4 categories:
 - **Modern Music & Literature**: 25 questions about music artists, bands, books, and authors
 - **Games & Riddles**: 25 questions about board games, video games, nursery rhymes, and brain teasers
 
+## References
+Quiz questions were sourced from the following website:
+
+Cacic, M. (2025). 100 General Trivia Questions |Top Quiz Questions – Opinion Stage. [online] Available at: https://www.opinionstage.com/blog/trivia-questions/ [Accessed 07 Nov 2025]
+
 ## License
 
 This project is open source and available for educational purposes.
